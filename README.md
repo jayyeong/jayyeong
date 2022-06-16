@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=838487&height=230&section=header&text=Jayyeong%20Jeong&fontColor=FFFFFF&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=838487&height=230&section=header&text=Jayyeong%20Jeong&fontColor=FFFFFF&fontSize=70&fontAlignY=35)
 
 ### under construction
 
