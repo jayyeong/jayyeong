@@ -13,6 +13,5 @@ I like building interfaces that have to work under real schedules: gathering non
 
 ## Links
 
-- Portfolio: [kuadarchive.com](https://kuadarchive.com/)
 - Blog: [aia1235.tistory.com](https://aia1235.tistory.com/)
 - GitHub: [github.com/jayyeong](https://github.com/jayyeong)
