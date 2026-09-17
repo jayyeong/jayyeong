@@ -7,7 +7,7 @@
 React로 웹 서비스를 만들고 있습니다.  
 사용자가 보는 화면부터 운영에 필요한 기능, 배포까지 함께 고민합니다.
 
-[Blog](https://aia1235.tistory.com/) · [Project](https://github.com/jayyeong/ALTEREGO_2026_VITE) · [Website](https://www.kuadarchive.com/2026/)
+[Blog](https://aia1235.tistory.com/) · [Project](https://github.com/jayyeong/ALTEREGO_2026_VITE) · [Website](https://kuadarchive.com/2026/)
 
 </div>
 
@@ -19,11 +19,13 @@ React로 웹 서비스를 만들고 있습니다.
 - 이미지가 많은 전시 웹사이트를 만들며 **로딩 속도와 탐색 경험**을 다뤘습니다.
 - 주문·관리자 화면의 API 연동과 AWS 배포를 경험하며, 화면 너머의 서비스 흐름도 익히고 있습니다.
 
-### 만들고 있는 것
+### 대표 프로젝트
 
 #### KUAD 2026 · ALTER EGO
 
 **건국대학교 의상디자인학과 졸업전시 웹사이트**
+
+[🌐 사이트 바로가기 · kuadarchive.com/2026](https://kuadarchive.com/2026/)
 
 작품과 사람을 소개하는 전시 페이지부터 룩북·런웨이, 굿즈 주문과 관리자 화면까지 담은 프로젝트입니다. React와 Vite로 구성하고, GitHub Actions를 통해 S3·CloudFront로 배포합니다.
 
