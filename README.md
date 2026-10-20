@@ -41,5 +41,5 @@ React로 웹 서비스를 만들고 있습니다.
 | :--- | :--- |
 | Frontend | JavaScript · React · React Router · Tailwind CSS · Vite |
 | Deployment | AWS S3 · CloudFront · Route 53 · GitHub Actions |
-| Backend 경험 | Spring Boot · JPA · MySQL · REST API |
-| Computer Vision 경험 | Python · OpenCV · YOLOv8 |
+| Backend | Spring Boot · JPA · MySQL · REST API |
+| Computer Vision | Python · OpenCV · YOLOv8 |
